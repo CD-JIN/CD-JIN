@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align=center>
+  # 소개
+  ## 안녕하세요. 개발 공부중입니다
+  ## 백엔드, 프론트엔드 모두 공부중이며 열정적으로 노력하겠습니다.
+</div>
+
 <!--
 **CD-JIN/CD-JIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
