@@ -2,8 +2,10 @@
 
 <div align=center>
  <h1>소개</h1>
- <h2> 안녕하세요. 개발 공부중입니다</h2>
-  <h2> 백엔드, 프론트엔드 모두 공부중이며 열정적으로 노력하겠습니다. </h2>
+  <span> 안녕하세요. 개발 공부중입니다</span>
+ <h2>공부중인 기술들</h2>
+  <img src="https://img.shields.io/badge/JS-FFCA28?style=flat-square&logo=javascript&logoColor=yellow"/>
+  <span> 백엔드, 프론트엔드 모두 공부중이며 열정적으로 노력하겠습니다. </span>
  <h5>어떻게 README.md 꾸밀지 고민중...</h5>
 </div>
 
