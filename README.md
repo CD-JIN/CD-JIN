@@ -1,6 +1,7 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40)
+
+
 <div align=center>
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=70" />
  <h1>소개</h1>
   <span> 안녕하세요. 개발 공부중입니다</span>
  <h2>공부중인 기술들</h2>
