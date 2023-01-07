@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-00F200?style=flat-square&logo=Ferrari&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Ferrari&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  </div>
   
@@ -20,6 +20,14 @@
  
  <h5>어떻게 README.md 꾸밀지 고민중...</h5>
 </div>
+<h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
+
+<p align="center">
+<a href="https://velog.io/@cdjin01"><img src="https://img.shields.io/badge/My blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@cdjin01"/></a>
+<a href="mailto:cdjin01@naver.com"><img src="https://img.shields.io/badge/Naver-D0A9F5?style=flat-square&logo=Naver&logoColor=white&link=mailto:cdjin01@naver.com"/></a>
+</p>
+
+
 
 <!--
 **CD-JIN/CD-JIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
