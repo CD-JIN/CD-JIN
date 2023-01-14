@@ -18,7 +18,7 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CD-JIN&layout=compact&theme=tokyonight)
  
- <h5>어떻게 README.md 꾸밀지 고민중...</h5>
+
 </div>
 <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
 
