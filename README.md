@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href="https://velog.io/@cdjin01"><img src="https://img.shields.io/badge/My blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@cdjin01"/></a>
-<a href="mailto:cdjin01@naver.com"><img src="https://img.shields.io/badge/Naver-D0A9F5?style=flat-square&logo=Naver&logoColor=white&link=mailto:cdjin01@naver.com"/></a>
+<a href="mailto:cdjin01@naver.com"><img src="https://img.shields.io/badge/Mail-D0A9F5?style=flat-square&logo=Naver&logoColor=white&link=mailto:cdjin01@naver.com"/></a>
 </p>
 
 
