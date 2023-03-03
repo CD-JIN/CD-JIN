@@ -15,7 +15,9 @@
  </div>
   
   <span> 백엔드, 프론트엔드 모두 공부중이며 아직까지 배우는 단계입니다. </span>
- 
+  <br>
+  <span >- 🌱 I’m currently learning : Java, Spring</span>
+  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CD-JIN&layout=compact&theme=tokyonight)
  
 
